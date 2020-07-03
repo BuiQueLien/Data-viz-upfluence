@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+
+extra_javascript:
+    follower_evolution.js

@@ -13,9 +13,3 @@ Toutes les informations sont dans la feuille de calcul et les dossiers partagés
 Le rendu peut être un site web (dynamique ou statique) ou un rapport PDF.
  
 Le choix des technos est libre mais vu ta spécialisation, tu pourrais faire un site en utilisant des libres data viz javascript (britechart, d3.js, etc...) !
-
-# This is a title
-
-> Follower evolution
-
-<script src="https://gist.github.com/BuiQueLien/d2d6775870ff952d88d8ca9ad87ca1f5.js"></script>
